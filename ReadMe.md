@@ -1,4 +1,4 @@
-# TOKEN2022 - Pumpfun Smart Contract Overview
+# pmupfun-smartcontract-token2022
 
 This document outlines the intricacies of the Pumpfun smart contract that utilizes the new SPL token standard, TOKEN2022. This advanced token protocol extends the functionalities of conventional SPL tokens, providing developers with more versatile options for implementing tokenomics in decentralized applications.
 
@@ -65,4 +65,4 @@ By leveraging TOKEN2022 and the Pumpfun smart contract, developers can build rob
 ## Troubleshooting
 
 It is not representing the basic code so if you have any issue during the run of this repo, feel free to open issues.
-Or contact here: [telegram](https://t.me/jwest951227)
+Or contact here: [telegram](https://t.me/nightstormlord)
